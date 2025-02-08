@@ -6,7 +6,7 @@ using namespace std;
 
 int nrProduse = 0, key, i, j;
 double stoc[MAXIM], preturi[MAXIM];
-string produse[20];
+string produse[999];
 
 void insertKey()
 {
